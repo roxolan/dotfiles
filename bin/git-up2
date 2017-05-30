@@ -1,0 +1,3 @@
+# displays git graph up to a date passedin as a parameter
+
+git log --pretty=format:"%h %cd %s" --date=short --graph --until="$1"
