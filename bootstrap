@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+# Creates symlinks for config files in current dir.
+
+print "bootstrap script was run successfully!"
